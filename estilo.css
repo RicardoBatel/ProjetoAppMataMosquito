@@ -14,9 +14,9 @@
 }
 
 .ladoA {
-	transform: scalex(1.0);
+	transform: scalex(1);
 }
 
 .ladoB {
-	transform: scalex(-1.0);
+	transform: scalex(-1);
 }
